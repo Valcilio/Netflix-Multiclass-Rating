@@ -1,6 +1,6 @@
 # NETFLIX RATING MULTICLASS CLASSICATION
 
-![netflix multiclass classification](/home/valcilio/respos/eleflow/entregaveis/netflix_classification/net_mult.png)
+![netflix multiclass classification](net_mult.png)
 
 ## **PREMISSAS:**
 
